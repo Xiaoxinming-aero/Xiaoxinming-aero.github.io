@@ -43,16 +43,13 @@ redirect_from:
     </div>
   </div>
   <div class='paper-box-text'>
-    <p style="font-size: 1.1em; margin-bottom: 5px; color: #333;"><strong>跨雷诺数流场预测研究项目</strong></p>
+   <p style="font-size: 1.2em; margin-bottom: 5px;"><strong><a href="/wind-tunnel/" style="color: #005088; text-decoration: none;">低成本桌面风洞设计与机器学习流场预测分析项目 (点击查看详情) &raquo;</a></strong></p>
     <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.9em; color: #666;"><strong>项目负责人</strong> | 2026.05 - 至今</p>
     <ul style="padding-left: 20px; font-size: 0.95em; color: #444; line-height: 1.5;">
       <li style="margin-bottom: 5px;"><strong>硬件开发</strong>：独立改造并搭建了一套 3D 打印桌面风洞装置，优化了烟线流动显示效果。</li>
       <li style="margin-bottom: 5px;"><strong>数据求解</strong>：目前正在进行 CFD 数据校验与 PIV 实验数据的融合处理。</li>
       <li><strong>算法探索</strong>：计划探索算子学习（FNO）方法在流场重构中的应用，实现从稀疏实验数据到高分辨率流场的映射。</li>
     </ul>
-  </div>
-</div>
-
   </div>
 </div>
 
