@@ -38,7 +38,7 @@ redirect_from:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Ongoing</div> 
+      <div class="badge">正在进行</div> 
       <img src='images/liang1.png' alt="Project Image" width="100%">
     </div>
   </div>
