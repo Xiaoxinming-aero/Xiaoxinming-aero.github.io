@@ -17,42 +17,37 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+<p>
+  I am a junior undergraduate student majoring in Aircraft Design and Engineering at Shenyang Aerospace University, ranking <strong>1st in my major (1/143)</strong>. My research interests lie primarily in <strong>Experimental Fluid Mechanics</strong>, <strong>Data-driven Fluid Dynamics</strong>, and <strong>Aerodynamic Structural Design & Flow Control</strong>.
+</p>
+<p>
+  Currently, I am leading a research project on cross-Reynolds number flow field prediction. In this project, we independently modified and assembled a 3D-printed desktop wind tunnel for flow field testing, and are exploring the application of operator learning (FNO) methods in flow field reconstruction. We are currently focusing on optimizing flow visualization and CFD data solving.
+</p>
+<p>
+  Previously,  I participated in the CUADC as a core member (China Undergraduate Aircraft Design and Construction Innovation Grand Prix) Wing Static Load Challenge, where our team won the <strong>National First Prize</strong>. My primary contributions included CAD modeling and structural simulation, helping the team achieve an extreme static load of 48kg with a 195g structure. I am highly passionate about bridging hardware experiments with numerical simulations.
+</p>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.05*: &nbsp;🎉 Started leading the cross-Reynolds number flow field prediction project and assembling the 3D-printed desktop wind tunnel.
+- *2025.09*: &nbsp;🏆 Won the **Provincial First Prize** in the 2025 Liaoning Province University Student Physics Competition.
+             &nbsp;🏆 Awarded the National Scholarship for Undergraduate Students and the University-level "Merit Student" (Three Good Student) Honor.
+- *2024.09*: &nbsp;🥇 Won the **National First Prize** in the CUADC (China Undergraduate Aircraft Design and Construction Innovation Grand Prix).
 
-# 📝 Publications 
+# 💻 Selected Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**Low-Cost Desktop Wind Tunnel & Machine Learning Flow Prediction**
+- *Project Leader | May 2026 - Present*
+- Designed and assembled a 3D-printed desktop wind tunnel with high-quality smoke wire flow visualization.
+- Exploring FNO operator learning methods for flow separation and vortex shedding prediction based on PIV testing data. 
+- *Note: A manuscript based on this work is currently in preparation for submission to Experiments in Fluids.*
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Micro-Pressure Measurement Device for Airfoil Surfaces**
+- *Project Leader | Mar 2025 - Sep 2025*
+- Developed a device based on piezoelectric ceramics and Pascal's principle for weak aerodynamic pressure measurement (0.5g precision) without flow field interference.
+- Conducted COMSOL piezoelectric coupling simulations and Multisim circuit optimizations.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🏆 Selected Honors
+- **National Scholarship**
+- **National First Prize**, CUADC Wing Static Load Challenge, *2024*
+- **National Second Prize**, 9th International UAV Innovation Grand Prix, *2024*
+- **Provincial First Prize**, Liaoning Province University Student Physics Competition, *2025*
