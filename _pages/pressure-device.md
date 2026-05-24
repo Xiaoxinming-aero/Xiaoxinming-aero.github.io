@@ -1,5 +1,5 @@
 ---
-title: "翼面微压测量装置研发"
+title: "基于压电陶瓷与帕斯卡原理的翼表微弱压力测量装置"
 permalink: /pressure-device/
 layout: single
 author_profile: false
