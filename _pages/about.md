@@ -35,16 +35,60 @@ redirect_from:
 
 # 💻 Selected Projects
 
-**Low-Cost Desktop Wind Tunnel & Machine Learning Flow Prediction**
-- *Project Leader | May 2026 - Present*
-- Designed and assembled a 3D-printed desktop wind tunnel with high-quality smoke wire flow visualization.
-- Exploring FNO operator learning methods for flow separation and vortex shedding prediction based on PIV testing data. 
-- *Note: A manuscript based on this work is currently in preparation for submission to Experiments in Fluids.*
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Ongoing</div> 
+      <img src='images/wind-tunnel.jpg' alt="wind tunnel" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+    [Low-Cost Desktop Wind Tunnel & Machine Learning Flow Prediction](#)
+    
+    **Project Leader** | May 2026 - Present
 
-**Micro-Pressure Measurement Device for Airfoil Surfaces**
-- *Project Leader | Mar 2025 - Sep 2025*
-- Developed a device based on piezoelectric ceramics and Pascal's principle for weak aerodynamic pressure measurement (0.5g precision) without flow field interference.
-- Conducted COMSOL piezoelectric coupling simulations and Multisim circuit optimizations.
+    - Designed and assembled a 3D-printed desktop wind tunnel with high-quality smoke wire flow visualization.
+    - Exploring FNO operator learning methods for flow separation and vortex shedding prediction based on PIV testing data. 
+    - *Note: A manuscript based on this work is currently in preparation for submission to Experiments in Fluids.*
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Provincial 1st</div>
+      <img src='images/pressure-device.jpg' alt="pressure device" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+    [Micro-Pressure Measurement Device for Airfoil Surfaces](#)
+    
+    **Project Leader** | Mar 2025 - Sep 2025
+
+    - Developed a device based on piezoelectric ceramics and Pascal's principle for weak aerodynamic pressure measurement (0.5g precision) without flow field interference.
+    - Conducted COMSOL piezoelectric coupling simulations and Multisim circuit optimizations.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">National 1st</div>
+      <img src='images/cuadc-wing.jpg' alt="cuadc wing" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+    [National First Prize, CUADC Wing Static Load Challenge](#)
+    
+    **Core Member** | Sep 2024
+
+    - Participated in CAD modeling and structural simulation for the straight wing design.
+    - Helped the team achieve an extreme static load of 48kg with a 195g structure.
+  </div>
+</div>
 
 # 🏆 Selected Honors
 - **National Scholarship**
