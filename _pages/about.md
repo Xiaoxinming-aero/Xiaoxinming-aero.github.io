@@ -44,11 +44,29 @@ redirect_from:
   </div>
   <div class='paper-box-text'>
    <p style="font-size: 1.2em; margin-bottom: 5px;"><strong><a href="/wind-tunnel/" style="color: #005088; text-decoration: none;">低成本桌面风洞设计与机器学习流场预测分析项目 (点击查看详情) &raquo;</a></strong></p>
-    <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.9em; color: #666;"><strong>项目负责人</strong> | 2026.01 - 至今</p>
+    <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.9em; color: #666;"><strong>项目负责人</strong> | 2025.09 - 至今</p>
     <ul style="padding-left: 20px; font-size: 0.95em; color: #444; line-height: 1.5;">
       <li style="margin-bottom: 5px;"><strong>硬件开发</strong>：独立改造并搭建了一套 3D 打印桌面风洞装置，优化了烟线流动显示效果。</li>
       <li style="margin-bottom: 5px;"><strong>数据求解</strong>：目前正在进行 CFD 数据校验与 PIV 实验数据的融合处理。</li>
       <li><strong>算法探索</strong>：计划探索算子学习（FNO）方法在流场重构中的应用，实现从稀疏实验数据到高分辨率流场的映射。</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">国一等奖</div> 
+      <img src='images/cuadc-wing.jpg' alt="CUADC Wing" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <p style="font-size: 1.2em; margin-bottom: 5px;"><strong><a href="/cuadc-wing/" style="color: #005088; text-decoration: none;">CUADC 机翼静载挑战项目 (点击查看详情) &raquo;</a></strong></p>
+    <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.9em; color: #666;"><strong>核心成员</strong> |2023.12 - 2024.12</p>
+    <ul style="padding-left: 20px; font-size: 0.95em; color: #444; line-height: 1.5;">
+      <li style="margin-bottom: 5px;">负责平直机翼的 CAD 建模与 Patran/Nastran 结构仿真。</li>
+      <li>最终以 195g 的机翼结构实现了 48kg 的极限静载，获国家级一等奖。</li>
     </ul>
   </div>
 </div>
@@ -70,27 +88,11 @@ redirect_from:
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">国一等奖</div> 
-      <img src='images/cuadc-wing.jpg' alt="CUADC Wing" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text'>
-    <p style="font-size: 1.2em; margin-bottom: 5px;"><strong><a href="/cuadc-wing/" style="color: #005088; text-decoration: none;">CUADC 机翼静载挑战项目 (点击查看详情) &raquo;</a></strong></p>
-    <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.9em; color: #666;"><strong>核心成员</strong> | 2024.09</p>
-    <ul style="padding-left: 20px; font-size: 0.95em; color: #444; line-height: 1.5;">
-      <li style="margin-bottom: 5px;">负责平直机翼的 CAD 建模与 Patran/Nastran 结构仿真。</li>
-      <li>最终以 195g 的机翼结构实现了 48kg 的极限静载，获国家级一等奖。</li>
-    </ul>
-  </div>
-</div>
 
 # 🏆 荣誉与奖项 (Selected Honors)
 
 - **国家奖学金** (National Scholarship), *2025*
-- **国家级一等奖 / 省级一等奖** (核心队员), 中国大学生飞行器设计创新大赛 (CUADC) 机翼静载挑战, *2024.09*
+- **国家级一等奖 / 省级一等奖** (核心队员), 中国大学生飞行器设计创新大赛 (CUADC) 机翼静载挑战, *2023.092024.09*
 - **国家级二等奖** (队长), 第九届国际无人飞行器创新大奖赛 无人机机翼强度, *2024.11*
 - **国家级优秀奖 / 省级二等奖** (个人), 第十五届全国周培源大学生力学竞赛, *2025.08*
 - **省级一等奖** (队长), 辽宁省大学生物理竞赛 (实验赛道) 命题类微弱压力测量, *2025.09*
