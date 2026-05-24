@@ -13,6 +13,7 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
+  avatar             : "/images/relaxing.jpg"
   name               : "Xinming Xiao"
   first_name         : "Xinming"
   last_name          : "Xiao"
@@ -21,7 +22,6 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -30,7 +30,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Xiaoxinming-aero"
   google_plus      :
   keybase          :
   instagram        :
