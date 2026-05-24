@@ -39,18 +39,19 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">Ongoing</div> 
-      <img src='images/wind-tunnel.jpg' alt="wind tunnel" width="100%">
+      <img src='images/liang1.png' alt="Project Image" width="100%">
     </div>
   </div>
+  
   <div class='paper-box-text' markdown="1">
     
-    [Low-Cost Desktop Wind Tunnel & Machine Learning Flow Prediction](#)
-    
-    **Project Leader** | May 2026 - Present
+    [跨雷诺数流场预测研究项目]
+     Project Leader 
 
-    - Designed and assembled a 3D-printed desktop wind tunnel with high-quality smoke wire flow visualization.
-    - Exploring FNO operator learning methods for flow separation and vortex shedding prediction based on PIV testing data. 
-    - *Note: A manuscript based on this work is currently in preparation for submission to Experiments in Fluids.*
+    - 硬件开发：独立改造并搭建了一套 3D 打印桌面风洞装置，优化了烟线流动显示效果。
+    - 算法探索：探索算子学习（FNO）方法在流场重构中的应用，实现从稀疏实验数据到高分辨率流场的映射。
+    - 数据求解：目前正在进行 CFD 数据校验与 PIV 实验数据的融合处理。
+
   </div>
 </div>
 
