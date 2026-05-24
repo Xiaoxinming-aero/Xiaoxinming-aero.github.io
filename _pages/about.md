@@ -39,7 +39,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">Ongoing</div> 
-      <img src='images/wind-tunnel-project.jpg' alt="Project Image" width="100%">
+      <img src='images/liang1.png' alt="Project Image" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
