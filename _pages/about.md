@@ -61,7 +61,7 @@ redirect_from:
     </div>
   </div>
   <div class='paper-box-text'>
-    <p style="font-size: 1.1em; margin-bottom: 5px; color: #333;"><strong>基于压电陶瓷与帕斯卡原理的翼表微弱压力测量装置</strong></p>
+    <p style="font-size: 1.2em; margin-bottom: 5px;"><strong><a href="/pressure-device/" style="color: #005088; text-decoration: none;">翼面微压测量装置研发 (点击查看详情) &raquo;</a></strong></p>
     <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.9em; color: #666;"><strong>项目负责人</strong> | 2025.03 - 2025.09</p>
     <ul style="padding-left: 20px; font-size: 0.95em; color: #444; line-height: 1.5;">
       <li style="margin-bottom: 5px;">基于压电陶瓷与帕斯卡原理，开发了一套用于微弱气动压力测量的装置（测试精度达 0.5g）。</li>
@@ -78,7 +78,7 @@ redirect_from:
     </div>
   </div>
   <div class='paper-box-text'>
-    <p style="font-size: 1.1em; margin-bottom: 5px; color: #333;"><strong>CUADC 机翼静载挑战项目</strong></p>
+    <p style="font-size: 1.2em; margin-bottom: 5px;"><strong><a href="/cuadc-wing/" style="color: #005088; text-decoration: none;">CUADC 机翼静载挑战项目 (点击查看详情) &raquo;</a></strong></p>
     <p style="margin-top: 0; margin-bottom: 10px; font-size: 0.9em; color: #666;"><strong>核心成员</strong> | 2024.09</p>
     <ul style="padding-left: 20px; font-size: 0.95em; color: #444; line-height: 1.5;">
       <li style="margin-bottom: 5px;">负责平直机翼的 CAD 建模与 Patran/Nastran 结构仿真。</li>
