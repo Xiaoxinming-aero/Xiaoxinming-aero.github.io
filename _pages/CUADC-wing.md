@@ -1,6 +1,6 @@
 ---
-title: "CUADC 机翼静载挑战项目"
-permalink: /CUADC-wing/
+title: "CUADC 机翼静载挑战项目——大展弦比直机翼结构设计与验证"
+permalink: /cuadc-wing/
 layout: single
 author_profile: false
 ---
