@@ -39,7 +39,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">正在进行</div> 
-      <img src='images/liang1.png' alt="Project Image" width="100%">
+      <img src='images/wind tunnel.png' alt="Project Image" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -58,7 +58,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">国一等奖</div> 
-      <img src='images/cuadc-wing.jpg' alt="CUADC Wing" width="100%">
+      <img src='images/CUADC wing.png' alt="CUADC Wing" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -75,7 +75,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">省一等奖</div> 
-      <img src='images/pressure-device.jpg' alt="Micro-Pressure Device" width="100%">
+      <img src='images/pressure device.png' alt="Micro-Pressure Device" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
